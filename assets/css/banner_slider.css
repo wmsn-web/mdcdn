@@ -1,0 +1,24 @@
+.banner_hero{
+    width: 100%;
+    background: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.main_hero{
+    padding: 20px;
+}
+@media only screen and (max-width: 991px)
+{
+    .banner_hero{
+        width: 100%;
+        background: #fff;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
